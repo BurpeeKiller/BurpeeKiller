@@ -5,7 +5,7 @@
 **Full-stack engineer & system architect building an interconnected digital ecosystem**
 
 [![Website](https://img.shields.io/badge/omnirealm.tech-00B4D8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://omnirealm.tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gregory-giraud/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giraudgreg)
 
 </div>
 
