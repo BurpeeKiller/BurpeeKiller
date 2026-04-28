@@ -41,6 +41,7 @@ A monorepo of production SaaS, internal tools, and shared packages — all built
 | Product | Description | Status |
 |---------|-------------|--------|
 | [**Wardek**](https://wardek.io) | Cybersecurity & compliance audits (OWASP, NIS2, RGPD, AI Act) | ![Live](https://img.shields.io/badge/Live-00C853?style=flat-square) |
+| [**Wardek Light**](https://omnirealm.tech/wardek-light) | Free 10-second cybersecurity badge for every website — viral, jargon-free | ![Live](https://img.shields.io/badge/Live-00C853?style=flat-square) |
 | [**OmniTask**](https://task.omnirealm.tech) | Project management that doesn't waste your time | ![Live](https://img.shields.io/badge/Live-00C853?style=flat-square) |
 | [**OmniBookmark**](https://omnibookmark.omnirealm.tech) | Smart bookmark management with AI tagging | ![Live](https://img.shields.io/badge/Live-00C853?style=flat-square) |
 | [**Consulting**](https://consulting.omnirealm.tech) | Senior fullstack consulting & technical blog | ![Live](https://img.shields.io/badge/Live-00C853?style=flat-square) |
