@@ -44,7 +44,9 @@ A monorepo of production SaaS, internal tools, and shared packages — all built
 | [**OmniTask**](https://task.omnirealm.tech) | Project management that doesn't waste your time | ![Live](https://img.shields.io/badge/Live-00C853?style=flat-square) |
 | [**OmniBookmark**](https://omnibookmark.omnirealm.tech) | Smart bookmark management with AI tagging | ![Live](https://img.shields.io/badge/Live-00C853?style=flat-square) |
 | [**Consulting**](https://consulting.omnirealm.tech) | Senior fullstack consulting & technical blog | ![Live](https://img.shields.io/badge/Live-00C853?style=flat-square) |
-| [**Mission Brevet**](https://brevet.omnirealm.tech) | EdTech AI — adaptive math exercises for students | ![Beta](https://img.shields.io/badge/Beta-FF9800?style=flat-square) |
+| [**Mission Brevet**](https://mission-brevet.omnirealm.tech) | EdTech AI — adaptive math exercises for students | ![Beta](https://img.shields.io/badge/Beta-FF9800?style=flat-square) |
+| [**Asteroids**](https://asteroids.omnirealm.tech) | NEA space-mining prospecting dashboard with public API | ![Live](https://img.shields.io/badge/Live-00C853?style=flat-square) |
+| [**ParcoursMap**](https://parcoursmap.omnirealm.tech) | Data-driven Parcoursup orientation with pSEO content | ![Beta](https://img.shields.io/badge/Beta-FF9800?style=flat-square) |
 | **FitRealm** | AI fitness coach that adapts to YOUR life | ![Dev](https://img.shields.io/badge/Dev-9E9E9E?style=flat-square) |
 | **IrisPro** | Eye gymnastics PWA for knowledge workers (CVS prevention) | ![Dev](https://img.shields.io/badge/Dev-9E9E9E?style=flat-square) |
 | **OmniSignal** | Time-series analysis toolkit (spectral approach) | ![R&D](https://img.shields.io/badge/R%26D-9C27B0?style=flat-square) |
