@@ -27,10 +27,10 @@ Our R&D unfolds across **three coherent dimensions** — computational, physical
 | Dimension | Focus | Status 2026 |
 |-----------|-------|-------------|
 | 🔵 **Computational** | Universal data type · composition algebra · AI Act signatures · archeometric distances | Operational engine (Rust) · patent in preparation |
-| 🟢 **Physical** | Bayesian inference framework for pre-industrial processes (concrete, alloys, biomaterials) | Framework operational · 11 candidates scientifically validated |
-| 🟠 **Industrial** | L2 lab (Vendée) · partnerships with cement makers, certification bodies, fashion industry · French R&D grants | Lab in setup · partnership pipeline active |
+| 🟢 **Physical** | Bayesian inference framework for pre-industrial processes (concrete, alloys, biomaterials) | Framework operational · candidates in active validation |
+| 🟠 **Industrial** | Regional R&D lab · partnerships with cement makers, certification bodies, fashion industry · French R&D grants | Lab in setup · partnership pipeline active |
 
-**Patent in preparation** with a recognized French IP firm. INPI Pays de la Loire follow-up. Regional Innovation Committee submission scheduled May 2026.
+**Patent in preparation.** Active R&D follow-up with French innovation programs in 2026.
 
 ---
 
