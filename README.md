@@ -14,9 +14,9 @@
 
 ## What is OmniRealm
 
-OmniRealm is a **French deep tech company** founded on a fundamental discovery: an **algebraic framework for object composition** that applies as well to digital data (AI signatures, time series, archeometric catalogs) as to physical processes (recipes, alloys, sustainable materials).
+OmniRealm is a **French deep tech company** bridging digital data (AI signatures, time series, archeometric catalogs) and physical processes (recipes, alloys, sustainable materials) through a unified R&D approach.
 
-Our R&D unfolds across **three coherent dimensions** — computational, physical, industrial — all built on the same theoretical core.
+Our R&D unfolds across **three coherent dimensions** — computational, physical, industrial — all built on the same R&D foundation.
 
 > *"We don't build the system — we create the Grid where the optimal system emerges."*
 
@@ -26,7 +26,7 @@ Our R&D unfolds across **three coherent dimensions** — computational, physical
 
 | Dimension | Focus | Status 2026 |
 |-----------|-------|-------------|
-| 🔵 **Computational** | Universal data type · composition algebra · AI Act signatures · archeometric distances | Operational engine (Rust) · patent in preparation |
+| 🔵 **Computational** | Cross-modal data analysis · AI Act compliance signatures · archeometric distances | Proprietary engine · operational |
 | 🟢 **Physical** | Bayesian inference framework for pre-industrial processes (concrete, alloys, biomaterials) | Framework operational · candidates in active validation |
 | 🟠 **Industrial** | Regional R&D lab · partnerships with cement makers, certification bodies, fashion industry · French R&D grants | Lab in setup · partnership pipeline active |
 
@@ -50,7 +50,7 @@ A monorepo of production SaaS, internal tools, and shared packages — all built
 | [**ParcoursMap**](https://parcoursmap.omnirealm.tech) | Data-driven Parcoursup orientation with pSEO content | ![Beta](https://img.shields.io/badge/Beta-FF9800?style=flat-square) |
 | **FitRealm** | AI fitness coach that adapts to YOUR life | ![Dev](https://img.shields.io/badge/Dev-9E9E9E?style=flat-square) |
 | **IrisPro** | Eye gymnastics PWA for knowledge workers (CVS prevention) | ![Dev](https://img.shields.io/badge/Dev-9E9E9E?style=flat-square) |
-| **OmniSignal** | Time-series analysis toolkit (spectral approach) | ![R&D](https://img.shields.io/badge/R%26D-9C27B0?style=flat-square) |
+| **OmniSignal** | Advanced time-series analysis toolkit | ![R&D](https://img.shields.io/badge/R%26D-9C27B0?style=flat-square) |
 | **OmniLost-Recipes** | Bayesian inverse design for lost industrial recipes | ![R&D](https://img.shields.io/badge/R%26D-9C27B0?style=flat-square) |
 
 ---
